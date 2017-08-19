@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Hongy\MoneyCharge0225\libs\androidpiechart.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a7b271b26e6fcedb4b547cc0d291c118b18d07f">
+        <dex dex="C:\Hongy\MoneyCharge0225\build\intermediates\pre-dexed\debug\androidpiechart-e5163339774cafba9debc204a5da3c1738ddecc0.jar" />
+    </item>
+    <item
+        jar="C:\Hongy\MoneyCharge0225\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="C:\Hongy\MoneyCharge0225\build\intermediates\pre-dexed\debug\android-support-v4-cfd1be2683c38a679c24b58b6d3c7f09868f61df.jar" />
+    </item>
+    <item
+        jar="C:\Hongy\MoneyCharge0225\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Hongy\MoneyCharge0225\build\intermediates\pre-dexed\debug\achartengine-1.1.0-f79b629ede68ba277454a75f5eb8238e091b93d4.jar" />
+    </item>
+
+</items>
